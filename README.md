@@ -31,7 +31,7 @@ Other Skills:
 ## 🏆 Achievements
 🏅 Winner — Contest Azam 
 🌟 Recognized at Aptech Vision 2025 for innovative project presentation  
-💡 Created** VistaLiving, a .NET-powered smart lifestyle management system  
+💡 Created VistaLiving, a .NET-powered smart lifestyle management system  
 
 ## 💼 Professional Background
 Before diving into development, I worked at United Bank Limited (UBL) via HRSG Outsourcing, where I built strong communication, analytical, and problem-solving skills while handling customer complaints and resolutions.  
